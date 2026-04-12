@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm @bbinarygo 👋
 
 I am a **Product Manager** specializing in the Fintech sector and data-driven solutions. With a Bachelor's in Computer Science and over 5 years of experience in product management and analytics, I bridge the gap between technical execution and product strategy. 
 
