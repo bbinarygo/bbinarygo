@@ -14,6 +14,6 @@ In February 2027, I will be heading to New Zealand as a Manaaki New Zealand Scho
 * **Writing:** I share stories about career development, tech & financial mindsets on my blog and Threads.
 
 ### 📫 Let's Connect
-* **LinkedIn:** [https://www.linkedin.com/in/baonguyen99/]
-* **Website:** [https://www.b-binary.com/]
-* **Have a quick chat?**: [https://calendly.com/ngbao161199/mentorship]
+* **LinkedIn:** https://www.linkedin.com/in/baonguyen99/
+* **Website:** https://www.b-binary.com/
+* **Have a quick chat?**: https://calendly.com/ngbao161199/mentorship/
